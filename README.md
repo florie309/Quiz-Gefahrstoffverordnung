@@ -146,6 +146,7 @@ data-max-trials="3"
 -->
  - [(X)] A) Ja, immer für alle Gefahrstoffe 
  - [( )] B) Nein, nur für besonde nur für den Umgang mit Lackierungen 
+ - [( )] C) Ja, aber nur für den Umgang mit Lackierungen
  - [( )] D) Nein, die Gefährdung ist bei Tischlereien grundsätzlich gering 
 ********************
 > [!NOTE]
