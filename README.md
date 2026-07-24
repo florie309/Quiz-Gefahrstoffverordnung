@@ -9,7 +9,7 @@ narrator:  Deutsch Male
 
 edit:     
 
-icon:      
+icon:      https://www.njumii.de/fileadmin/admin-njumii/img/njumii-logo.png
 logo:      
 
 title:     Quiz Gefahrenstoffverordnung und Gefahrenstoffe
@@ -157,7 +157,7 @@ data-max-trials="3"
 # Quiz Gefahrstoffverordnung & Gefahrstoffe
    # Frage 8
 
-**Was ist der Unterschied von TRGS zu einer verbindlichen Rechtsverordnung wie der GefStoffV?**
+>**Was ist der Unterschied von TRGS zu einer verbindlichen Rechtsverordnung wie der GefStoffV?**
 
 <!--
 data-solution-button="off"
