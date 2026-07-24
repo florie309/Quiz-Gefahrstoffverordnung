@@ -10,7 +10,7 @@ narrator:  Deutsch Male
 edit:     
 
 icon:      https://www.njumii.de/fileadmin/admin-njumii/img/njumii-logo.png
-logo:      https://github.com/florie309/Quiz-Gefahrstoffverordnung/blob/main/thild1.png
+logo:      thild1.png
 
 title:     Quiz Gefahrenstoffverordnung und Gefahrenstoffe
 comment:   
