@@ -93,7 +93,7 @@ data-max-trials="3"
  - [( )] D) Sägespäne von Eiche und Buche 
 ********************
 > [!NOTE]
-> **Das unbehandelte Holz-Material ist zunächst kein einges gab es für den verschärften Staubgrenzwert für Eiche und Buche (1m³)?**
+> **Begründung: Das unbehandelte Holz-Material ist zunächst kein eingestufter Gefahrstoff. Die Gefahr geht vom dabei entstehenden Holzstaub aus. **
 ********************
 
 # Quiz Gefahrstoffverordnung & Gefahrstoffe
