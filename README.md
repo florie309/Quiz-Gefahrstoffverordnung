@@ -91,7 +91,6 @@ data-max-trials="3"
  - [( )] B) Leim und Lösemittel 
  - [(X)] C) Massivholzplatten aus Buche (roh, unbearbeitet) 
  - [( )] D) Sägespäne von Eiche und Buche 
-
 ********************
 > [!NOTE]
 > **Das unbehandelte Holz-Material ist zunächst kein einges gab es für den verschärften Staubgrenzwert für Eiche und Buche (1m³)?**
@@ -99,6 +98,9 @@ data-max-trials="3"
 
 # Quiz Gefahrstoffverordnung & Gefahrstoffe
    # Frage 5
+   
+> **Wie viele Jahre Übergangsfrist gab es für den verschärften Staubgrenzwert für Eiche und Buche (1 mg/m³)?**
+
 <!--
 data-solution-button="off"
 data-max-trials="3"
@@ -115,8 +117,6 @@ data-max-trials="3"
 
 # Quiz Gefahrstoffverordnung & Gefahrstoffe
    # Frage 6
-
-
 
 >**Was sagt die TRGS 900 grundsätzlich über den Grenzwert für Holzstäube?**
 
@@ -138,7 +138,8 @@ data-max-trials="3"
    # Frage 7
 
 
-**Ist eine Tischlerei aus § 7 GefStoffV zur schriftlichen Gefährdungsbeurteilung für Leim/Lösemittel verpflichtet?**
+>**Ist eine Tischlerei aus § 7 GefStoffV zur schriftlichen Gefährdungsbeurteilung für Leim/Lösemittel verpflichtet?**
+
 <!--
 data-solution-button="off"
 data-max-trials="3"
@@ -165,7 +166,7 @@ data-max-trials="3"
  - [( )] B) TRGS sind untergeordnet und müssen nicht beachtet werden 
  - [( )] C) TRGS gelten nur für Kleinstbetriebe 
  - [( )] D) TRGS sind dasselbe wie die GefStoffV 
- ********************
+********************
 > [!NOTE]
 > **Begründung:** TRGS konkretisieren die GefStoffV. Wer sie einhält, kann davon ausgehen, die Vorschriften einzuhalten (Vermutungsregel).
 ********************
@@ -186,7 +187,7 @@ data-max-trials="3"
  - [(X)] B) Der Grenzwert> wird unterschritten → kein Handlungsbedarf 
  - [( )] C) Der Grenzwert wird überschritten → Handlungsbedarf 
  - [( )] D) Kiefernholz ist nicht krebserzeugend, daher keine Grenzwert-Pflicht 
- ********************
+********************
 > [!NOTE]
 > **Begründung:** Der allgemeine Grenzwert (2 mg/m³) gilt auch für Kiefernstaub. 1,5 mg/m³ liegt unter 2 mg/m³ → zulässig (keine Pflicht zur Messung, außer für krebserzeugende Stoffe). Allerdings: Der Arbeitgeber muss alle 3 Jahre Pflichtmessungen bei krebserzeugenden Holzarten durchführen.
 ********************
