@@ -22,9 +22,9 @@ import:
 -->
 
 
-# Quiz Gefahrstoffvero
+# Quiz Gefahrstoffverordnung und Gefahrenstoffe
 
-se wird Holzstaub von Eiche und Buche zugeordnet?**
+Welcher Gefahrenstoffse wird Holzstaub von Eiche und Buche zugeordnet?**
 
 <!--
 data-solution-button="off"
