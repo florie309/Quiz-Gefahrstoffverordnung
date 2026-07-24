@@ -23,8 +23,9 @@ import:
 
 
 # Quiz Gefahrstoffverordnung und Gefahrenstoffe
+ # Frage 1
 
-Welcher Gefahrenstoffse wird Holzstaub von Eiche und Buche zugeordnet?**
+>**Welcher Gefahrenstoffkategorie wird Holzstaub von Eiche und Buche zugeordnet?**
 
 <!--
 data-solution-button="off"
@@ -93,21 +94,17 @@ data-max-trials="3"
 
 ********************
 > [!NOTE]
-> **Das unbehandelte Holz-Material ist zunächst kein einges
-gab es
-# für den verschärften Staubgrenzwert für Eiche und Buche (1
-m³)?**
-
-<!--
-data-solon-bu f"
-data-max-trials="3"
--->
- - [( )] A) 1 Jahr 
- - [( )B) 2ah****************************************
+> **Das unbehandelte Holz-Material ist zunächst kein einges gab es für den verschärften Staubgrenzwert für Eiche und Buche (1m³)?**
+********************
 
 # Quiz Gefahrstoffverordnung & Gefahrstoffe
    # Frage 5
-re 
+<!--
+data-solution-button="off"
+data-max-trials="3"
+-->
+ - [( )] A) 1 Jahr 
+ - [( )] B) 2 Jahre
  - [(X)] C) 3 Jahre 
  - [( )] D) 5 Jahre 
 ********************
@@ -142,19 +139,16 @@ data-max-trials="3"
 
 
 **Ist eine Tischlerei aus § 7 GefStoffV zur schriftlichen Gefährdungsbeurteilung für Leim/Lösemittel verpflichtet?**
-
 <!--
-data-so
-ti>on-button="off"
+data-solution-button="off"
 data-max-trials="3"
 -->
  - [(X)] A) Ja, immer für alle Gefahrstoffe 
  - [( )] B) Nein, nur für besonde nur für den Umgang mit Lackierungen 
  - [( )] D) Nein, die Gefährdung ist bei Tischlereien grundsätzlich gering 
- ********************
+********************
 > [!NOTE]
-> **Begründung:** Die Gefährdungsbeurteilung nach § 7 GefStoffV ist die zentrale Pflicht des Arbeitgebers (fü
-le Gefahrstoffe).
+> **Begründung:** Die Gefährdungsbeurteilung nach § 7 GefStoffV ist die zentrale Pflicht des Arbeitgebers (für alle Gefahrstoffe).
 ********************
 
 
@@ -167,7 +161,7 @@ le Gefahrstoffe).
 data-solution-button="off"
 data-max-trials="3"
 -->
-> - [(X)] A) TRGS sind nicht rechtsverbindlich, aber Vermutungsregel des Stands der Technik 
+ - [(X)] A) TRGS sind nicht rechtsverbindlich, aber Vermutungsregel des Stands der Technik 
  - [( )] B) TRGS sind untergeordnet und müssen nicht beachtet werden 
  - [( )] C) TRGS gelten nur für Kleinstbetriebe 
  - [( )] D) TRGS sind dasselbe wie die GefStoffV 
@@ -180,8 +174,7 @@ data-max-trials="3"
 # Quiz Gefahrstoffverordnung & Gefahrstoffe
    # Frage 9
 
-
-In einer Tischlerei fällt ausschließlich unbehandeltes Kiefernholz in der Bearbeitung an. Die Mitarbeiter arbeiten 8 Stunden am Tag mit diesem Holz. Der gemessene Holzstaubwert liegt bei 1,5 mg/m³.
+> In einer Tischlerei fällt ausschließlich unbehandeltes Kiefernholz in der Bearbeitung an. Die Mitarbeiter arbeiten 8 Stunden am Tag mit diesem Holz. Der gemessene Holzstaubwert liegt bei 1,5 mg/m³.
 
 **Welche Aussage ist zutreffend?**
 
